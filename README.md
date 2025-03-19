@@ -1,8 +1,9 @@
 This was an expirement to see what Claude 3.7 can do in less than 5 minutes.
 
-##Strava Running Data Analysis
+## Strava Running Data Analysis
 
-Dashboard Features
+#### Dashboard Features
+
 The interactive dashboard provides:
 
 Summary Statistics - A quick overview of your running totals
